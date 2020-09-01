@@ -2,9 +2,9 @@
 
 ## I'm a Student, Statistician, and a Data Enthusiast!
 
-- 💻 I’m currently working on [PUBG Tournament Analysis project](https://github.com/chilam27/PUBG_Tournament_Analysis)
-- ⏪ My previous project: [Stock Price Prediction](https://github.com/chilam27/Stock_Price_Prediction)
-- ⚡ Fun fact: I love eSports (especially FPS and battle royal ones) and bubble tea
+- 💻 I’m currently working on [PUBG Tournament Analysis project](https://github.com/chilam27/PUBG_Tournament_Analysis).
+- ⏪ My previous project: [Stock Price Prediction](https://github.com/chilam27/Stock_Price_Prediction).
+- ⚡ Fun fact: I love eSports (especially FPS and battle royal ones) and bubble tea.
 
 
 ## Connect with me:
