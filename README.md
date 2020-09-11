@@ -5,6 +5,8 @@
 - 💻 I’m currently working on [PUBG Tournament Analysis project](https://github.com/chilam27/PUBG_Tournament_Analysis).
 - ⏪ My previous project: [Stock Price Prediction](https://github.com/chilam27/Stock_Price_Prediction).
 - ⚡ Fun fact: I love eSports (especially FPS and battle royal ones) and bubble tea.
+- 💬 Favorite Data Science Quote: "Thanks to big data, machines can now be programmed to the next thing right. But only humans can do the next right thing." - Dov Seidman
+- 📚 Current book: Naked Statistics by Charles Wheelan.
 
 
 ## Connect with me:
