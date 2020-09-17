@@ -6,7 +6,7 @@
 - ⏪ My previous project: [Stock Price Prediction](https://github.com/chilam27/Stock_Price_Prediction).
 - ⚡ Fun fact: I love eSports (especially FPS and battle royal ones) and bubble tea.
 - 💬 Favorite Data Science Quote: "Thanks to big data, machines can now be programmed to the next thing right. But only humans can do the next right thing." - Dov Seidman
-- 📚 Current book: Naked Statistics by Charles Wheelan.
+- 📚 Current book: Why We Sleep by Matthew Walker, PhD.
 
 
 ## Connect with me:
