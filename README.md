@@ -6,7 +6,7 @@
 - ⏪ My previous project: [New York City Precipitation Prediction](https://github.com/chilam27/NYC_Precipitation_Prediction).
 - ⚡ Fun fact: I love eSports (especially FPS and battle royal ones) and bubble tea.
 - 💬 Favorite Data Science Quote: "Thanks to big data, machines can now be programmed to the next thing right. But only humans can do the next right thing." - Dov Seidman
-- 📚 Current book: Think Like a Monk by Jay Shetty.
+- 📚 Current book: Rich Dad Poor Dad by Robert T. Kiyosaki.
 
 
 ## Connect with me:
