@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working on my [new Data Science Portfolio](https://github.com/chilam27/chilam27.github.io).
 - ⏪ My previous project: [Deploy Machine Learning Model to a Web based Application](https://github.com/chilam27/Improve_Review_Product_System_Deploy).
-- ⚡ Fun fact: I love being physcially active and bubble tea.
+- ⚡ Fun fact: I love being physcially active and drinking bubble tea.
 - 💬 Favorite Data Science Quote: "Thanks to big data, machines can now be programmed to the next thing right. But only humans can do the next right thing." - Dov Seidman
 - 📚 Current book: [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) by Robert T. Kiyosaki.
 
@@ -30,11 +30,7 @@
 
 <br />
 
-## GitHub Statistics
-
-  <img align="left" alt="Chi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chilam27&show_icons=true&hide_border=true" />
-
 [website]: https://chilam27.github.io/Chi_Portfolio/
 [twitter]: https://twitter.com/ChiLam2710
 [instagram]: https://www.instagram.com/dchi27/
-[linkedin]: https://www.linkedin.com/in/chi-dao-lam-0263891a0/
+[linkedin]: https://www.linkedin.com/in/daochilam/
