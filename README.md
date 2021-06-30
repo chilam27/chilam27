@@ -1,6 +1,6 @@
 # Hi there, I'm Chi. Welcome to my GitHub account!! 😊
 
-## I'm a Student, Statistician, and a Data Enthusiast!
+## I'm a Data Scientist and a Statistician!
 
 - 💻 I’m currently working on [Classify Galaxy](https://github.com/chilam27/Galaxy_Classification).
 - ⏪ My previous project: [New York City Precipitation Prediction](https://github.com/chilam27/NYC_Precipitation_Prediction).
