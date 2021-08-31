@@ -6,7 +6,7 @@
 - ⏪ My previous project: [Deploy Machine Learning Model to a Web based Application](https://github.com/chilam27/Improve_Review_Product_System_Deploy).
 - ⚡ Fun fact: I love being physcially active and drinking bubble tea.
 - 💬 Favorite Data Science Quote: "Thanks to big data, machines can now be programmed to the next thing right. But only humans can do the next right thing." - Dov Seidman
-- 📚 Current book: [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) by Robert T. Kiyosaki.
+- 📚 Current book: [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) by Benjamin Graham.
 
 
 ## Connect with me:
